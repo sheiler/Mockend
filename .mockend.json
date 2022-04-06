@@ -1,15 +1,9 @@
 {
   "Validar": {
-    "title": { "string": {} },
-    "comments": {
-      "hasMany": "Comment"
-    }
+    "title": { "string": {} }
   },
   "Formulario": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
+    "body": { "string": {} }
   }
   
 }
