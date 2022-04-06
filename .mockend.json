@@ -5,10 +5,14 @@
       "hasMany": "Comment"
     }
   },
-  "Comment": {
+  "Formulario": {
     "body": { "string": {} },
     "post": {
       "belongsTo": "Post"
     }
+  },
+  "simularAgro": {
+    "body": { "string": {} }
   }
+  
 }
