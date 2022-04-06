@@ -10,9 +10,6 @@
     "post": {
       "belongsTo": "Post"
     }
-  },
-  "simularAgro": {
-    "body": { "string": {} }
   }
   
 }
