@@ -1,5 +1,5 @@
 {
-  "Post": {
+  "Validar": {
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
