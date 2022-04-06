@@ -1,26 +1,21 @@
 {
-  "validar":
-  {
+  "validar":{
     "sucursal":{
        "regexp":"[0-9]{4}"
     },
     "token":{
         "regexp":"[a-z]{64}"      
       }
-    }
-  },
-  "formulario":
-  {
+    },
+  "formulario":{
      "token":{
         "regexp":"[a-z]{64}"      
       }
   },
-  "simularAgro":
-  {
+  "simularAgro":{
     "regexp":"[0-9]{6}"
   },
-  "simularPyme":
-  {
+  "simularPyme":{
     "regexp":"[0-9]{5}"
   },
   "Post": {
